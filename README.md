@@ -1,4 +1,7 @@
 # snake-game
+
+See the game in action here: https://youtu.be/JFWcFR-eo7Q?si=YaX7t14z82mu2vYM
+
 A simple snake game coded in Java using Princeton's StdDraw graphics library.
 
 To play the game, ensure that Snake.java and StdDraw.java are in the same folder.  Then compile and run Snake.java.
