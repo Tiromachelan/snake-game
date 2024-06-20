@@ -1,9 +1,3 @@
-/*
- * Author: Timothy Shane, tshane2022@my.fit.edu
- * Course: CSE 1002, Section 01, Spring 2023
- * Project: Snake Game
- */
-
 import java.util.Random;
 
 public final class Snake {
